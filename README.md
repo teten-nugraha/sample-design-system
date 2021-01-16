@@ -13,4 +13,4 @@ Pada repo ini penulis membuat beberapa contoh design aplikasi seperti :
 
 1. Twitter Design System
 
-![twitter](images/twitter.PNG "postgreadmin-login")
+![twitter](images/twitter.png"twitter")
